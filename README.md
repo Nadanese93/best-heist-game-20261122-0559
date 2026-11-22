@@ -2,9 +2,9 @@
 
 A stealth heist game for make.fun's `best-heist-game-20261122-0559` bounty: slip through the Meridian Museum at 2 a.m., stay out of the guards' vision cones and the sweeping security cameras, steal all four treasures, and escape through the green EXIT door before the alarm hits 100%.
 
-![bounty](https://make.fun/badge/best-heist-game-20261122-0559.svg)
-![rank](https://make.fun/badge/best-heist-game-20261122-0559/Nadanese93/best-heist-game-20261122-0559/rank.svg)
-![reward](https://make.fun/badge/best-heist-game-20261122-0559/Nadanese93/best-heist-game-20261122-0559/reward.svg)
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/Nadanese93/best-heist-game-20261122-0559/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/Nadanese93/best-heist-game-20261122-0559/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
 
 ## How to play
 
